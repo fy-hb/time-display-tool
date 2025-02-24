@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import datetime
 from dataclasses import dataclass
 from threading import Thread, Lock
