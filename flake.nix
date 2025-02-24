@@ -11,7 +11,7 @@
       {
         packages = {
           default = pkgs.python312Packages.buildPythonApplication rec {
-            pname = "pytest";
+            pname = "time-display-tool";
             version = "0.1.0";
             pyproject = true;
             src = ./.;
